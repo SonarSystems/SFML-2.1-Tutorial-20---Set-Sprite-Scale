@@ -1,4 +1,4 @@
-SFML-2.1-Tutorial-20---Set-Sprite-Scale
+SFML 2.1 Tutorial 20 - Set Sprite Scale
 =======================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/F-bVjwfCoos
